@@ -40,6 +40,9 @@ export class Tag {
     static readonly PYDANTIC = new Tag('Pydantic', '##4a6a77');
     static readonly GOLANG = new Tag('Golang', '#457189');
     static readonly RABBITMQ = new Tag('RabbitMQ', '#457189' )
+    static readonly Wordpress = new Tag('Wordpress', '#457189' )
+    static readonly Elemontor = new Tag('Elemontor', '#457189' )
+    static readonly AvadaBuilder = new Tag('AvadaBuilder', '#457189' )
 
 
 

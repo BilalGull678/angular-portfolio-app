@@ -83,3 +83,4 @@ This portfolio was designed and developed by myself, Barbara Calderon, using fro
 | [1.1.0](https://github.com/barbaracalderon/angular-portfolio-app/releases/tag/v1.1.0)   | Jan 2025   | Updated content on home and about me pages. Fixed window width issues. Carousel anchor tags no longer green style. Resolved issue with carousel indicators not displaying. Added license.|
 | 1.0.1   | Jun 2024   | Added more projects to the portfolio page.       |
 | 1.0.0   | May 2024   | Initial release of the portfolio.                |
+"# Bilal_Portfolio_B" 
