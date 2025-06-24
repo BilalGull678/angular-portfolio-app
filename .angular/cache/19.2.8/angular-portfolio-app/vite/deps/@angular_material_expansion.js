@@ -1,11 +1,11 @@
 import {
+  _StructuralStylesLoader
+} from "./chunk-6NJ2RAJC.js";
+import {
   CdkPortalOutlet,
   PortalModule,
   TemplatePortal
 } from "./chunk-FRNWQWI6.js";
-import {
-  _StructuralStylesLoader
-} from "./chunk-6NJ2RAJC.js";
 import {
   ENTER,
   FocusKeyManager,
